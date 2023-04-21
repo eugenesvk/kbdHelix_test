@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://eugenesvk.github.io/kbdHelix_test/sitemap.xml
